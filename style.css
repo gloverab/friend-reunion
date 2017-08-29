@@ -111,8 +111,8 @@ h1 {
   height: 60%;
   min-height: 315px;
   border: 1px solid white;
-  background-color: rgba(46, 92, 10, 0.5);
-  box-shadow: 0px 0px 0px 10px rgba(46, 92, 10, 0.5);
+  background-color: rgba(10, 78, 92, 0.5);
+  box-shadow: 0px 0px 0px 10px rgba(10, 78, 92, 0.5);
   transform: translate(-50%, -50%);
   color: white;
 }
